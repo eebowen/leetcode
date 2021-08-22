@@ -2,6 +2,23 @@
 ### Python sorting methods:
 - sorted(list1, key=key = lambda x:(x[0], x[1])): sorting based on priority of x[0] and x[1]
 - list1.sort(key = lambda x:(x[0], x[1])) # in-place
+- Using comparator:
+``` python
+list1 = [(10,1),(10,-1), (10, 1), (10, -1)]
+#==> results: [(10, -1),(10, -1), (10, 1), (10, 1)]
+def comparator(point1, point2):
+    if point1[0] == point2[0]:
+        if point1[1] == point2[1]:
+            return 0
+        else:
+            return point1[1]
+    else:
+        return point1[0] - point2[1]
+# does not work
+# print(list1.sort(key=cmp_to_key(comparator)))
+# works
+print(sorted(list1, key=cmp_to_key(comparator)))
+```
 
 ### Algorithm Sweep Line
 
