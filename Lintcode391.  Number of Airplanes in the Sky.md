@@ -1,5 +1,5 @@
 ## Lintcode 391 Number of Airplanes in the Sky
-### Python sorting methods:
+### Python Tips" Sorting Methods:
 - sorted(list1, key=key = lambda x:(x[0], x[1])): sorting based on priority of x[0] and x[1]
 - list1.sort(key = lambda x:(x[0], x[1])) # in-place
 - Using comparator:
