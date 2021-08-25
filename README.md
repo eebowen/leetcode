@@ -9,3 +9,6 @@ Scan Line, deque, use an maxEnd varable
 ### 8/24
 - [560. Subarray Sum Equals K (Medium)](https://github.com/eebowen/leetcode/blob/main/560.%20Subarray%20Sum%20Equals%20K.md).
 Four methods. Prefix sum. Hashmap for storing sum values to look up like two sum. 
+- [218. The Skyline Problem (Hard)](https://github.com/eebowen/leetcode/blob/main/218.%20The%20Skyline%20Problem.md).
+Python max heap hard to use, and no remove function, so used SortedList from sortedcontainers.
+
