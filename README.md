@@ -12,3 +12,6 @@ Four methods. Prefix sum. Hashmap for storing sum values to look up like two sum
 - [218. The Skyline Problem (Hard)](https://github.com/eebowen/leetcode/blob/main/218.%20The%20Skyline%20Problem.md).
 Python max heap hard to use, and no remove function, so used SortedList from sortedcontainers.
 
+### 8/25
+- [111. Minimum Depth of Binary Tree (Easy)](https://github.com/eebowen/leetcode/blob/main/111.%20Minimum%20Depth%20of%20Binary%20Tree.md).
+Two methods, 1. recursion DFS. 2. queue BFD.
