@@ -8,4 +8,4 @@ Scan Line, deque, use an maxEnd varable
 
 ### 8/24
 - [560. Subarray Sum Equals K (Medium)](https://github.com/eebowen/leetcode/blob/main/560.%20Subarray%20Sum%20Equals%20K.md).
-Four methods. Prefix sum. Hashmap for store sum values to look up like two sum. 
+Four methods. Prefix sum. Hashmap for storing sum values to look up like two sum. 
