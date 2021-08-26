@@ -21,6 +21,7 @@ Two methods, 1. recursion DFS. 2. queue BFS.
 2 method. 1. one direction BFS. 2. 2 direction BFS.
 
 ### 8/26
-- [127. Word Ladder (hard)](https://github.com/eebowen/leetcode/blob/main/127.%20Word%20Ladder.md). 
-2 method. 1. brute force BFS. 2. Dijkstra's algorithm. 
-
+- [490. The Maze (Hard)](https://github.com/eebowen/leetcode/blob/main/490.%20The%20Maze.md). 
+1. Brute force BFS. 
+- [505. The Maze II (Medium)] (https://github.com/eebowen/leetcode/blob/main/505.%20The%20Maze%20II.md).
+1. Dijkstra's algorithm
