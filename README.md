@@ -17,3 +17,5 @@ Python max heap hard to use, and no remove function, so used SortedList from sor
 Two methods, 1. recursion DFS. 2. queue BFS.
 - [102. Binary Tree Level Order Traversal (Medium)](https://github.com/eebowen/leetcode/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.md).
 2 method. 1. recursion DFS. 2.queue BFS.
+- [127. Word Ladder(Hard)](https://github.com/eebowen/leetcode/blob/main/127.%20Word%20Ladder.md). 
+2 method. 1. one direction BFS. 2. 2 direction BFS.
