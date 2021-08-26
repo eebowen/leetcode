@@ -14,5 +14,6 @@ Python max heap hard to use, and no remove function, so used SortedList from sor
 
 ### 8/25
 - [111. Minimum Depth of Binary Tree (Easy)](https://github.com/eebowen/leetcode/blob/main/111.%20Minimum%20Depth%20of%20Binary%20Tree.md).
-Two methods, 1. recursion DFS. 2. queue BFD.
-- [102. Binary Tree Level Order Traversal (Medium)](https://github.com/eebowen/leetcode/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+Two methods, 1. recursion DFS. 2. queue BFS.
+- [102. Binary Tree Level Order Traversal (Medium)](https://github.com/eebowen/leetcode/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.md).
+2 method. 1. recursion DFS. 2.queue BFS.
