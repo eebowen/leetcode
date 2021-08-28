@@ -26,4 +26,10 @@ Two methods, 1. recursion DFS. 2. queue BFS.
 
 ### 8/27
 - [283. Move Zeroes (Easy)](https://github.com/eebowen/leetcode/blob/main/283.%20Move%20Zeroes.md). Two pointers method. Need review!!!
-- [811. Subdomain Visit Count (Medium)]()
+- [811. Subdomain Visit Count (Medium)](https://github.com/eebowen/leetcode/blob/main/811.%20Subdomain%20Visit%20Count.md).
+defaultdict and split method.
+
+### 8/28
+- [207. Course Schedule (Medium)](https://github.com/eebowen/leetcode/blob/main/207.%20Course%20Schedule.md).
+Use defaultdict and a list to store the graph. Use heap to perform BFS.
+- [724. Find Pivot Index (Esay)]
