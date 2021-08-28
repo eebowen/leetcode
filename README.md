@@ -23,3 +23,7 @@ Two methods, 1. recursion DFS. 2. queue BFS.
 ### 8/26
 - [490. The Maze (Hard)](https://github.com/eebowen/leetcode/blob/main/490.%20The%20Maze.md). Brute force BFS. 
 - [505. The Maze II (Medium)](https://github.com/eebowen/leetcode/blob/main/505.%20The%20Maze%20II.md). Dijkstra's algorithm
+
+### 8/27
+- [283. Move Zeroes (Easy)](https://github.com/eebowen/leetcode/blob/main/283.%20Move%20Zeroes.md). Two pointers method. Need review!!!
+- [811. Subdomain Visit Count (Medium)]()
