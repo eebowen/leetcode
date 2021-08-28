@@ -25,11 +25,12 @@ Two methods, 1. recursion DFS. 2. queue BFS.
 - [505. The Maze II (Medium)](https://github.com/eebowen/leetcode/blob/main/505.%20The%20Maze%20II.md). Dijkstra's algorithm
 
 ### 8/27
-- [283. Move Zeroes (Easy)](https://github.com/eebowen/leetcode/blob/main/283.%20Move%20Zeroes.md). Two pointers method. Need review!!!
+- [283. Move Zeroes (Easy)](https://github.com/eebowen/leetcode/blob/main/283.%20Move%20Zeroes.md). Two pointers methods. Need review!!!
 - [811. Subdomain Visit Count (Medium)](https://github.com/eebowen/leetcode/blob/main/811.%20Subdomain%20Visit%20Count.md).
 defaultdict and split method.
 
 ### 8/28
 - [207. Course Schedule (Medium)](https://github.com/eebowen/leetcode/blob/main/207.%20Course%20Schedule.md).
 Use defaultdict and a list to store the graph. Use heap to perform BFS.
-- [724. Find Pivot Index (Esay)](https://github.com/eebowen/leetcode/tree/main). One pointer to adjust left and right sum.
+- [724. Find Pivot Index (Esay)](https://github.com/eebowen/leetcode/blob/main/724.%20Find%20Pivot%20Index.md). 
+Two methods. 1. One pointer to adjust left and right sum. 2. Use prefix sum
