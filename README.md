@@ -32,4 +32,4 @@ defaultdict and split method.
 ### 8/28
 - [207. Course Schedule (Medium)](https://github.com/eebowen/leetcode/blob/main/207.%20Course%20Schedule.md).
 Use defaultdict and a list to store the graph. Use heap to perform BFS.
-- [724. Find Pivot Index (Esay)]
+- [724. Find Pivot Index (Esay)](https://github.com/eebowen/leetcode/tree/main). One pointer to adjust left and right sum.
