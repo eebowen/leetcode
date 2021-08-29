@@ -36,4 +36,6 @@ Use defaultdict and a list to store the graph. Use heap to perform BFS.
 Two methods. 1. One pointer to adjust left and right sum. 2. Use prefix sum.
 - [210. Course Schedule II (Medium)](https://github.com/eebowen/leetcode/blob/main/210.%20Course%20Schedule%20II.md).
 Similar as 207 Course Schedule.
+- [278. First Bad Version (Esay)](https://github.com/eebowen/leetcode/blob/main/278.%20First%20Bad%20Version.md).
+Two methods. 1. returns left or right. 2. use a variable to record ans. 
 
