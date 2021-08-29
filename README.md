@@ -41,3 +41,5 @@ Two methods. 1. returns left or right. 2. use a variable to record ans.
 - [4. Median of Two Sorted Arrays (Hard)](https://github.com/eebowen/leetcode/blob/main/4.%20Median%20of%20Two%20Sorted%20Arrays.md).
 Binary Search on one array only and use it for the second array with some constrains. 
 - [704. Binary Search (Easy)](https://github.com/eebowen/leetcode/blob/main/704.%20Binary%20Search.md). Template binary search problem.
+- [34. First and Last in Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/34.%20First%20and%20Last%20in%20Sorted%20Array.md).
+Find the left boundary and right boundary (first occurance and last occurance).
