@@ -43,3 +43,7 @@ Binary Search on one array only and use it for the second array with some constr
 - [704. Binary Search (Easy)](https://github.com/eebowen/leetcode/blob/main/704.%20Binary%20Search.md). Template binary search problem.
 - [34. First and Last in Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/34.%20First%20and%20Last%20in%20Sorted%20Array.md).
 Find the left boundary and right boundary (first occurance and last occurance).
+
+### 8/29
+- [33. Search in Rotated Sorted Array (Medium](https://github.com/eebowen/leetcode/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array.md).
+Determine which part is in order.
