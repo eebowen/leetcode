@@ -38,4 +38,5 @@ Two methods. 1. One pointer to adjust left and right sum. 2. Use prefix sum.
 Similar as 207 Course Schedule.
 - [278. First Bad Version (Esay)](https://github.com/eebowen/leetcode/blob/main/278.%20First%20Bad%20Version.md).
 Two methods. 1. returns left or right. 2. use a variable to record ans. 
-
+- [4. Median of Two Sorted Arrays (Hard)](https://github.com/eebowen/leetcode/blob/main/4.%20Median%20of%20Two%20Sorted%20Arrays.md).
+Binary Search on one array only and use it for the second array with some constrains. 
