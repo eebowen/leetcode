@@ -57,3 +57,4 @@ Basic binary search template.
 Basic binary search template.
 - [162. Find Peak Element (Medium)](https://github.com/eebowen/leetcode/blob/main/162.%20Find%20Peak%20Element.md).
 Binary search template. using left + 1 < right is better.
+- [69. Sqrt(x) (Easy)](https://github.com/eebowen/leetcode/blob/main/69.%20Sqrt(x).md)
