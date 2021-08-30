@@ -45,5 +45,7 @@ Binary Search on one array only and use it for the second array with some constr
 Find the left boundary and right boundary (first occurance and last occurance).
 
 ### 8/29
-- [33. Search in Rotated Sorted Array (Medium](https://github.com/eebowen/leetcode/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array.md).
+- [33. Search in Rotated Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array.md).
 Determine which part is in order.
+- [702. Search in a Sorted Array of Unknown Size (Medium)](https://github.com/eebowen/leetcode/blob/main/702.%20Search%20in%20a%20Sorted%20Array%20of%20Unknown%20Size.md).
+Find the right bound first and then binary search.
