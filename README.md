@@ -49,3 +49,7 @@ Find the left boundary and right boundary (first occurance and last occurance).
 Determine which part is in order.
 - [702. Search in a Sorted Array of Unknown Size (Medium)](https://github.com/eebowen/leetcode/blob/main/702.%20Search%20in%20a%20Sorted%20Array%20of%20Unknown%20Size.md).
 Find the right bound first and then binary search.
+
+### 8/30 
+- [74. Search a 2D Matrix (Medium)(https://github.com/eebowen/leetcode/blob/main/74.%20Search%20a%202D%20Matrix.md).
+Basic binary search template.
