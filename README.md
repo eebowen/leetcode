@@ -51,7 +51,9 @@ Determine which part is in order.
 Find the right bound first and then binary search.
 
 ### 8/30 
-- [74. Search a 2D Matrix (Medium)(https://github.com/eebowen/leetcode/blob/main/74.%20Search%20a%202D%20Matrix.md).
+- [74. Search a 2D Matrix (Medium)](https://github.com/eebowen/leetcode/blob/main/74.%20Search%20a%202D%20Matrix.md).
 Basic binary search template.
 -[35. Search Insert Position (Easy)](https://github.com/eebowen/leetcode/blob/main/35.%20Search%20Insert%20Position.md).
 Basic binary search template.
+- [162. Find Peak Element (Medium)](https://github.com/eebowen/leetcode/blob/main/162.%20Find%20Peak%20Element.md).
+Binary search template. using left + 1 < right is better.
