@@ -62,3 +62,11 @@ Binary search template. using left + 1 < right is better.
 Use binary search in a spefic range.
 - [875. Koko Eating Bananas (Medium)](https://github.com/eebowen/leetcode/blob/main/875.%20Koko%20Eating%20Bananas.md)
 Use binary search. Needs to determine the range and target conditions.
+
+### 8/31
+-[1011. Capacity To Ship Packages Within D Days (Medium)](https://github.com/eebowen/leetcode/blob/main/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md).
+Binary search with special range, similar to Koko eating banana.
+- [528. Random Pick with Weight (Medium)](https://github.com/eebowen/leetcode/blob/main/528.%20Random%20Pick%20with%20Weight.md).
+Binary search with prefix sum. random a sum, and find the interval.
+- [Redo 4. Median of Two Sorted Arrays (Hard)](https://github.com/eebowen/leetcode/blob/main/4.%20Median%20of%20Two%20Sorted%20Arrays.md).
+Spent 1h but still cant finish debuging, always array out of bound.
