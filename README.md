@@ -60,3 +60,5 @@ Binary search template. using left + 1 < right is better.
 - [69. Sqrt(x) (Easy)](https://github.com/eebowen/leetcode/blob/main/69.%20Sqrt(x).md).
 - [287. Find the Duplicate Number (Medium)](https://github.com/eebowen/leetcode/blob/main/287.%20Find%20the%20Duplicate%20Number.md).
 Use binary search in a spefic range.
+- [875. Koko Eating Bananas (Medium)](https://github.com/eebowen/leetcode/blob/main/875.%20Koko%20Eating%20Bananas.md)
+Use binary search. Needs to determine the range and target conditions.
