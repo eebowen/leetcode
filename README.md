@@ -64,7 +64,7 @@ Use binary search in a spefic range.
 Use binary search. Needs to determine the range and target conditions.
 
 ### 8/31
--[1011. Capacity To Ship Packages Within D Days (Medium)](https://github.com/eebowen/leetcode/blob/main/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md).
+- [1011. Capacity To Ship Packages Within D Days (Medium)](https://github.com/eebowen/leetcode/blob/main/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md).
 Binary search with special range, similar to Koko eating banana.
 - [528. Random Pick with Weight (Medium)](https://github.com/eebowen/leetcode/blob/main/528.%20Random%20Pick%20with%20Weight.md).
 Binary search with prefix sum. random a sum, and find the interval.
