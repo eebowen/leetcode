@@ -72,3 +72,7 @@ Binary search with prefix sum. random a sum, and find the interval.
 Spent 1h but still cant finish debuging, always array out of bound.
 - [1060. Missing Element in Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/1060.%20Missing%20Element%20in%20Sorted%20Array.md).
 Binary search on comparing missing bumbers with k.
+
+### 9/1
+- [415. Add Strings (Easy)](https://github.com/eebowen/leetcode/blob/main/415.%20Add%20Strings.md).
+two pointers for string. **Using while loop for two pointer questions.**
