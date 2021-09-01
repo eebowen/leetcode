@@ -70,3 +70,5 @@ Binary search with special range, similar to Koko eating banana.
 Binary search with prefix sum. random a sum, and find the interval.
 - [Redo 4. Median of Two Sorted Arrays (Hard)](https://github.com/eebowen/leetcode/blob/main/4.%20Median%20of%20Two%20Sorted%20Arrays.md).
 Spent 1h but still cant finish debuging, always array out of bound.
+-[1060. Missing Element in Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/1060.%20Missing%20Element%20in%20Sorted%20Array.md).
+Binary search on comparing missing bumbers with k.
