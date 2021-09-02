@@ -80,7 +80,7 @@ two pointers for string. **Using while loop for two pointer questions.**
 two pointers and calculate the area.
 
 ### 9/2
--[2. Add Two Numbers (Medium)](https://github.com/eebowen/leetcode/blob/main/2.%20Add%20Two%20Numbers.md).
+- [2. Add Two Numbers (Medium)](https://github.com/eebowen/leetcode/blob/main/2.%20Add%20Two%20Numbers.md).
 Two pointers and a carry.
 - [912. Sort an Array (Medium)](https://github.com/eebowen/leetcode/blob/main/912.%20Sort%20an%20Array.md).
 Two sorting method, quick sort and merge sort.
