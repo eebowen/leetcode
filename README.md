@@ -84,3 +84,5 @@ two pointers and calculate the area.
 Two pointers and a carry.
 - [912. Sort an Array (Medium)](https://github.com/eebowen/leetcode/blob/main/912.%20Sort%20an%20Array.md).
 Two sorting method, quick sort and merge sort.
+- [1. Two Sum (Easy)](https://github.com/eebowen/leetcode/blob/main/1.%20Two%20Sum.md).
+A hash table, key: num, value: index.
