@@ -92,3 +92,5 @@ Two pointers from begin and end.
 Two pointers or hash map
 - [49. Group Anagrams (Medium)](https://github.com/eebowen/leetcode/blob/main/49.%20Group%20Anagrams.md).
 Hashmap/defaultdict with keys being strings and values being lists.
+- [75. Sort Colors (Mdeium)](https://github.com/eebowen/leetcode/blob/main/75.%20Sort%20Colors.md).
+Use 3 pionters: two fixed pointers, l and r, on both side for representing 0 and 2. One floating pinter m in the middle.
