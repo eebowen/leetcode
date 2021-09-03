@@ -87,4 +87,6 @@ Two sorting method, quick sort and merge sort.
 - [1. Two Sum (Easy)](https://github.com/eebowen/leetcode/blob/main/1.%20Two%20Sum.md).
 A hash table, key: num, value: index.
 - [167. Two Sum II - Input array is sorted (Easy)](https://github.com/eebowen/leetcode/blob/main/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md).
-two pointers from begin and end.
+Two pointers from begin and end.
+- [15. 3Sum (medium)](https://github.com/eebowen/leetcode/blob/main/3Sum.md).
+Two pointers or hash map
