@@ -84,25 +84,26 @@ two pointers and calculate the area.
 Two pointers and a carry.
 - [912. Sort an Array (Medium)](https://github.com/eebowen/leetcode/blob/main/912.%20Sort%20an%20Array.md).
 Two sorting method, quick sort and merge sort.
-- [1. Two Sum (Easy)](https://github.com/eebowen/leetcode/blob/main/1.%20Two%20Sum.md).
+- [1. Two Sum (Easy)](https://github.com/eebowen/leetcode/blob/main/1.%20Two%20Sum.md). 
 A hash table, key: num, value: index.
-- [167. Two Sum II - Input array is sorted (Easy)](https://github.com/eebowen/leetcode/blob/main/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md).
+- [167. Two Sum II - Input array is sorted (Easy)](https://github.com/eebowen/leetcode/blob/main/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md). 
 Two pointers from begin and end.
-- [15. 3Sum (medium)](https://github.com/eebowen/leetcode/blob/main/3Sum.md).
+- [15. 3Sum (medium)](https://github.com/eebowen/leetcode/blob/main/3Sum.md). 
 Two pointers or hash map
-- [49. Group Anagrams (Medium)](https://github.com/eebowen/leetcode/blob/main/49.%20Group%20Anagrams.md).
+- [49. Group Anagrams (Medium)](https://github.com/eebowen/leetcode/blob/main/49.%20Group%20Anagrams.md). 
 Hashmap/defaultdict with keys being strings and values being lists.
-- [75. Sort Colors (Mdeium)](https://github.com/eebowen/leetcode/blob/main/75.%20Sort%20Colors.md).
+- [75. Sort Colors (Mdeium)](https://github.com/eebowen/leetcode/blob/main/75.%20Sort%20Colors.md). 
 Use 3 pionters: two fixed pointers, l and r, on both side for representing 0 and 2. One floating pinter m in the middle.
-- [445. Add Two Numbers II (Medium)](https://github.com/eebowen/leetcode/blob/main/445.%20Add%20Two%20Numbers%20II.md).
+- [445. Add Two Numbers II (Medium)](https://github.com/eebowen/leetcode/blob/main/445.%20Add%20Two%20Numbers%20II.md). 
 Two pointers with a carry. Reversing a linked list.
 
 ### 9/3
-- [206. Reverse Linked List (Easy)](https://github.com/eebowen/leetcode/blob/main/206.%20Reverse%20Linked%20List.md).
+- [206. Reverse Linked List (Easy)](https://github.com/eebowen/leetcode/blob/main/206.%20Reverse%20Linked%20List.md). 
 1). Two pointers: cur and prev. 2). Recursion: fixed the first pointer and recursive reverse the latter ones.
-- [345. Reverse Vowels of a String (Easy)](https://github.com/eebowen/leetcode/blob/main/345.%20Reverse%20Vowels%20of%20a%20String.md).
+- [345. Reverse Vowels of a String (Easy)](https://github.com/eebowen/leetcode/blob/main/345.%20Reverse%20Vowels%20of%20a%20String.md). 
 two pointers. Change string to list using **list('abc')**.
 - 560 Subarray Sum Equals K (Medium). Second time.
-- [974. Subarray Sums Divisible by K (Medium)](https://github.com/eebowen/leetcode/blob/main/974.%20Subarray%20Sums%20Divisible%20by%20K.md).
+- [974. Subarray Sums Divisible by K (Medium)](https://github.com/eebowen/leetcode/blob/main/974.%20Subarray%20Sums%20Divisible%20by%20K.md). 
 1). Use 2 prefix sum and a hashtable/dict {prefix sum % k: count} and then same as two sum. 2). need to consider the reminder of negitive value, so (reminder + k) to transfer it to positive. 3). Set dict[0] = 1.
-
+- [26. Remove Duplicates from Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md). 
+Two pionters both start from the left.
