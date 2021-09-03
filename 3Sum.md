@@ -15,6 +15,7 @@ class Solution:
         nums.sort()
         print(nums)
         ans = []
+        # or use for i, num in enumerate(nums):
         for i in range(len(nums)):
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
@@ -31,6 +32,7 @@ class Solution:
                     left, right = left + 1, right - 1
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
+                    # one condition above is actually enough
                     while left < right and nums[right] == nums[right + 1]:
                         right -= 1
         return ans
