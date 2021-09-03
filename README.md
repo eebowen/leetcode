@@ -94,3 +94,5 @@ Two pointers or hash map
 Hashmap/defaultdict with keys being strings and values being lists.
 - [75. Sort Colors (Mdeium)](https://github.com/eebowen/leetcode/blob/main/75.%20Sort%20Colors.md).
 Use 3 pionters: two fixed pointers, l and r, on both side for representing 0 and 2. One floating pinter m in the middle.
+- [445. Add Two Numbers II (Medium)](https://github.com/eebowen/leetcode/blob/main/445.%20Add%20Two%20Numbers%20II.md).
+Two pointers with a carry. Reversing a linked list.
