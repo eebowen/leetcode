@@ -97,4 +97,4 @@ Use 3 pionters: two fixed pointers, l and r, on both side for representing 0 and
 - [445. Add Two Numbers II (Medium)](https://github.com/eebowen/leetcode/blob/main/445.%20Add%20Two%20Numbers%20II.md).
 Two pointers with a carry. Reversing a linked list.
 - [206. Reverse Linked List (Easy)](https://github.com/eebowen/leetcode/blob/main/206.%20Reverse%20Linked%20List.md).
-Two pointers: cur and prev. Recursion: fixed the first pointer and recursive reverse the latter ones.
+1). Two pointers: cur and prev. 2). Recursion: fixed the first pointer and recursive reverse the latter ones.
