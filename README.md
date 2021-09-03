@@ -90,3 +90,5 @@ A hash table, key: num, value: index.
 Two pointers from begin and end.
 - [15. 3Sum (medium)](https://github.com/eebowen/leetcode/blob/main/3Sum.md).
 Two pointers or hash map
+- [49. Group Anagrams (Medium)](https://github.com/eebowen/leetcode/blob/main/49.%20Group%20Anagrams.md).
+Hashmap/defaultdict with keys being strings and values being lists.
