@@ -107,3 +107,5 @@ two pointers. Change string to list using **list('abc')**.
 1). Use 2 prefix sum and a hashtable/dict {prefix sum % k: count} and then same as two sum. 2). need to consider the reminder of negitive value, so (reminder + k) to transfer it to positive. 3). Set dict[0] = 1.
 - [26. Remove Duplicates from Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md). 
 Two pionters both start from the left.
+- [80. Remove Duplicates from Sorted Array II (Medium)](https://github.com/eebowen/leetcode/blob/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md).
+use two pointers one fixed pointer(l) and one floating(r). Tricky, review again. 
