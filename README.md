@@ -110,3 +110,5 @@ Two pionters both start from the left.
 - [80. Remove Duplicates from Sorted Array II (Medium)](https://github.com/eebowen/leetcode/blob/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md).
 **[Tricky, review again.]** Use two pointers one fixed pointer(l) and one floating(r).  
 - [283. Move Zeroes (Easy)]. Second time.
+- [3. Longest Substring Without Repeating Characters (Medium)](https://github.com/eebowen/leetcode/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md).
+1). Two pointers, sliding windows, set/hashset. 2). Need to check clearfully when running examples
