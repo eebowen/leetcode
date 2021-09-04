@@ -114,3 +114,7 @@ Two pionters both start from the left.
 1). Two pointers, sliding windows, set/hashset. 2). Need to check clearfully when running examples
 - [209. Minimum Size Subarray Sum (Medium)](https://github.com/eebowen/leetcode/blob/main/209.%20Minimum%20Size%20Subarray%20Sum.md).
 Positive integers so can use two pointers/sliding window. Can we use hashmap?
+
+### 9/4 
+- [438. Find All Anagrams in a String (Medium)](https://github.com/eebowen/leetcode/blob/main/438.%20Find%20All%20Anagrams%20in%20a%20String.md).
+Use a sliding window and hashtable/dict for all lowercase chars. Compare two tables/dicts. 
