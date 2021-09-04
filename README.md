@@ -108,4 +108,4 @@ two pointers. Change string to list using **list('abc')**.
 - [26. Remove Duplicates from Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md). 
 Two pionters both start from the left.
 - [80. Remove Duplicates from Sorted Array II (Medium)](https://github.com/eebowen/leetcode/blob/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md).
-use two pointers one fixed pointer(l) and one floating(r). Tricky, review again. 
+**[Tricky, review again.]** Use two pointers one fixed pointer(l) and one floating(r).  
