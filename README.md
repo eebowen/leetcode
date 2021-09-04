@@ -102,11 +102,11 @@ Two pointers with a carry. Reversing a linked list.
 1). Two pointers: cur and prev. 2). Recursion: fixed the first pointer and recursive reverse the latter ones.
 - [345. Reverse Vowels of a String (Easy)](https://github.com/eebowen/leetcode/blob/main/345.%20Reverse%20Vowels%20of%20a%20String.md). 
 two pointers. Change string to list using **list('abc')**.
-- 560 Subarray Sum Equals K (Medium). Second time.
+- [560 Subarray Sum Equals K (Medium)]. Second time.
 - [974. Subarray Sums Divisible by K (Medium)](https://github.com/eebowen/leetcode/blob/main/974.%20Subarray%20Sums%20Divisible%20by%20K.md). 
 1). Use 2 prefix sum and a hashtable/dict {prefix sum % k: count} and then same as two sum. 2). need to consider the reminder of negitive value, so (reminder + k) to transfer it to positive. 3). Set dict[0] = 1.
 - [26. Remove Duplicates from Sorted Array (Medium)](https://github.com/eebowen/leetcode/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md). 
 Two pionters both start from the left.
 - [80. Remove Duplicates from Sorted Array II (Medium)](https://github.com/eebowen/leetcode/blob/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md).
 **[Tricky, review again.]** Use two pointers one fixed pointer(l) and one floating(r).  
-- [283. Move Zeroes]. Second time.
+- [283. Move Zeroes (Easy)]. Second time.
