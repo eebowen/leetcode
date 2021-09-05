@@ -118,3 +118,5 @@ Positive integers so can use two pointers/sliding window. Can we use hashmap?
 ### 9/4 
 - [438. Find All Anagrams in a String (Medium)](https://github.com/eebowen/leetcode/blob/main/438.%20Find%20All%20Anagrams%20in%20a%20String.md).
 Use a sliding window and hashtable/dict for all lowercase chars. Compare two tables/dicts. 
+- [227. Basic Calculator II (Medium)](https://github.com/eebowen/leetcode/blob/main/227.%20Basic%20Calculator%20II.md).
+Use a stack to push numbers and do operations when meet previous operator.
