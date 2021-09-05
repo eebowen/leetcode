@@ -120,3 +120,5 @@ Positive integers so can use two pointers/sliding window. Can we use hashmap?
 Use a sliding window and hashtable/dict for all lowercase chars. Compare two tables/dicts. 
 - [227. Basic Calculator II (Medium)](https://github.com/eebowen/leetcode/blob/main/227.%20Basic%20Calculator%20II.md).
 Use a stack to push numbers and do operations when meet previous operator.
+- [224. Basic Calculator (Hard)](https://github.com/eebowen/leetcode/blob/main/224.%20Basic%20Calculator.md).
+**1).** Use sum and sign to store the current sum and previous sign. **2).** use while loop to go though all digit of a number. **3).** When '(' append, when ')' pop.
