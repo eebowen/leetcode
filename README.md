@@ -126,3 +126,7 @@ Use a stack to push numbers and do operations when meet previous operator.
 ### 9/5
 - [349. Intersection of Two Arrays (Easy)](https://github.com/eebowen/leetcode/blob/main/349.%20Intersection%20of%20Two%20Arrays.md)
 Use 2 sets or a binary search.
+
+### 9/6
+- [350. Intersection of Two Arrays II (Easy)](https://github.com/eebowen/leetcode/blob/main/350.%20Intersection%20of%20Two%20Arrays%20II.md).
+2 methods, Hash table or sort. 3 follow ups. 
