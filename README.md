@@ -122,3 +122,7 @@ Use a sliding window and hashtable/dict for all lowercase chars. Compare two tab
 Use a stack to push numbers and do operations when meet previous operator.
 - [224. Basic Calculator (Hard)](https://github.com/eebowen/leetcode/blob/main/224.%20Basic%20Calculator.md).
 **1).** Use sum and sign to store the current sum and previous sign. **2).** use while loop to go though all digit of a number. **3).** When '(' append, when ')' pop.
+
+### 9/5
+-[349. Intersection of Two Arrays (Easy)](https://github.com/eebowen/leetcode/blob/main/349.%20Intersection%20of%20Two%20Arrays.md)
+Use 2 sets or a binary search.
