@@ -130,3 +130,5 @@ Use 2 sets or a binary search.
 ### 9/6
 - [350. Intersection of Two Arrays II (Easy)](https://github.com/eebowen/leetcode/blob/main/350.%20Intersection%20of%20Two%20Arrays%20II.md).
 2 methods, Hash table or sort. 3 follow ups. 
+- [239. Sliding Window Maximum (Hard)](https://github.com/eebowen/leetcode/blob/main/239.%20Sliding%20Window%20Maximum.md)
+Use a deque for storing numbers in decreasing order. When first number is out of range, pop. The ans is the first number in the deque.
