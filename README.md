@@ -135,3 +135,5 @@ Use a deque for storing numbers in decreasing order. When first number is out of
 - [42. Trapping Rain Water (Hard)](https://github.com/eebowen/leetcode/blob/main/42.%20Trapping%20Rain%20Water.md)
 Use two opposite directional pointers to calculate max height for each direction. Use min of (max_left, max_right) - height for water difference at each location
 - [102. Binary Tree Level Order Traversal (Medium)] Second time.
+- [56. Merge Intervals (Medium)](https://github.com/eebowen/leetcode/blob/main/56.%20Merge%20Intervals.md). Second time.
+Sort and list. Don't forgot corner cases.
