@@ -137,3 +137,7 @@ Use two opposite directional pointers to calculate max height for each direction
 - [102. Binary Tree Level Order Traversal (Medium)] Second time.
 - [56. Merge Intervals (Medium)](https://github.com/eebowen/leetcode/blob/main/56.%20Merge%20Intervals.md). Second time.
 Sort and list. Don't forgot corner cases.
+
+### 9/7
+- [200. Number of Islands (Medium)](https://github.com/eebowen/leetcode/blob/main/200.%20Number%20of%20Islands.md).
+BFS and deque. 
