@@ -132,3 +132,5 @@ Use 2 sets or a binary search.
 2 methods, Hash table or sort. 3 follow ups. 
 - [239. Sliding Window Maximum (Hard)](https://github.com/eebowen/leetcode/blob/main/239.%20Sliding%20Window%20Maximum.md)
 Use a deque for storing numbers in decreasing order. When first number is out of range, pop. The ans is the first number in the deque.
+- [42. Trapping Rain Water (Hard)](https://github.com/eebowen/leetcode/blob/main/42.%20Trapping%20Rain%20Water.md)
+Use two opposite directional pointers to calculate max height for each direction. Use min of (max_left, max_right) - height for water difference at each location
