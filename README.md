@@ -149,5 +149,5 @@ Compare values and go left or right. Improve the order of if else makes code bet
 ### 9/8
 - [28. Implement strStr() (Easy)](https://github.com/eebowen/leetcode/blob/main/28.%20Implement%20strStr().md).
 Use string equal. Be careful on for loop conditions.
--[103. Binary Tree Zigzag Level Order Traversal (Medium)](https://github.com/eebowen/leetcode/blob/main/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md).
+- [103. Binary Tree Zigzag Level Order Traversal (Medium)](https://github.com/eebowen/leetcode/blob/main/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md).
 Same way of using queue, but append to result using different order.
