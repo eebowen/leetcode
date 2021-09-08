@@ -143,3 +143,5 @@ Sort and list. Don't forgot corner cases.
 Second time. BFS and deque. 
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/eebowen/leetcode/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md).
 Return the node if found and pass it up.
+- [235. Lowest Common Ancestor of a Binary Search Tree (Medium)](https://github.com/eebowen/leetcode/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md).
+Compare values and go left or right. Improve the order of if else makes code better.
