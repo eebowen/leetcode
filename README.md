@@ -141,3 +141,5 @@ Sort and list. Don't forgot corner cases.
 ### 9/7
 - [200. Number of Islands (Medium)](https://github.com/eebowen/leetcode/blob/main/200.%20Number%20of%20Islands.md).
 Second time. BFS and deque. 
+- [236. Lowest Common Ancestor of a Binary Tree](https://github.com/eebowen/leetcode/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md).
+Return the node if found and pass it up.
