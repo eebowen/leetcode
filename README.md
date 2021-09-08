@@ -155,4 +155,6 @@ Same way of using queue, but append to result using different order.
 Reverse a string using deque and append all sapces.
 - [199. Binary Tree Right Side View (Medium)](https://github.com/eebowen/leetcode/blob/main/199.%20Binary%20Tree%20Right%20Side%20View.md).
 Level order traversal and store the last element.
+- [695. Max Area of Island (Medium)](https://github.com/eebowen/leetcode/blob/main/695.%20Max%20Area%20of%20Island.md).
+BFS. Similar to number of islands.
 
