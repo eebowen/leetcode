@@ -161,3 +161,5 @@ BFS. Similar to number of islands.
 ### 9/9
 - [263. Ugly Number(Easy)](https://github.com/eebowen/leetcode/blob/main/263.%20Ugly%20Number.md)
 Devide all prime numbers if divisible, and return n == 1.
+- [1041. Robot Bounded In Circle (Medium)](https://github.com/eebowen/leetcode/blob/main/1041.%20Robot%20Bounded%20In%20Circle.md).
+Two conditions: 1). Return to origin after one iter. 2). Location changed and direction also changed at the end of one iter. Also need to change dir when turns.
