@@ -158,3 +158,6 @@ Level order traversal and store the last element.
 - [695. Max Area of Island (Medium)](https://github.com/eebowen/leetcode/blob/main/695.%20Max%20Area%20of%20Island.md).
 BFS. Similar to number of islands.
 
+### 9/9
+- [263. Ugly Number(Easy)](https://github.com/eebowen/leetcode/blob/main/263.%20Ugly%20Number.md)
+Devide all prime numbers if divisible, and return n == 1.
