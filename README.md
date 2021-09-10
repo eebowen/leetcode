@@ -169,3 +169,5 @@ Use an hash map/ dict for the max area/lenth for each cell. Check right, down an
 Combination algorithm, DFS. For loop for different the length of the sub_set. dfs(lenth, start_number, cur_set)
 - [90. Subsets II (Medium)](https://github.com/eebowen/leetcode/blob/main/90.%20Subsets%20II.md).
 Simiar to 78. Subsets, just need to sort the input and skip repeated numbers. 
+- [1091. Shortest Path in Binary Matrix (Medium)](https://github.com/eebowen/leetcode/blob/main/1091.%20Shortest%20Path%20in%20Binary%20Matrix.md).
+BFS Graph shortest path.
