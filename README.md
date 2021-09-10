@@ -165,3 +165,5 @@ Devide all prime numbers if divisible, and return n == 1.
 Two conditions: 1). Return to origin after one iter. 2). Location changed and direction also changed at the end of one iter. Also need to change dir when turns.
 - [221. Maximal Square (Medium)](https://github.com/eebowen/leetcode/blob/main/221.%20Maximal%20Square.md).
 Use an hash map/ dict for the max area/lenth for each cell. Check right, down and corner to see if it can be a square. Recursively check the lenth of the adjusent squere and add them to the dict.
+- [78. Subsets (Medium)](https://github.com/eebowen/leetcode/blob/main/78.%20Subsets.md).
+Combination algorithm, DFS. For loop for different the length of the sub_set. dfs(lenth, start_number, cur_set)
