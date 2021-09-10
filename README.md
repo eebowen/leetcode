@@ -167,3 +167,5 @@ Two conditions: 1). Return to origin after one iter. 2). Location changed and di
 Use an hash map/ dict for the max area/lenth for each cell. Check right, down and corner to see if it can be a square. Recursively check the lenth of the adjusent squere and add them to the dict.
 - [78. Subsets (Medium)](https://github.com/eebowen/leetcode/blob/main/78.%20Subsets.md).
 Combination algorithm, DFS. For loop for different the length of the sub_set. dfs(lenth, start_number, cur_set)
+- [90. Subsets II (Medium)](https://github.com/eebowen/leetcode/blob/main/90.%20Subsets%20II.md).
+Simiar to 78. Subsets, just need to sort the input and skip repeated numbers. 
