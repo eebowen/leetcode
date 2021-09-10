@@ -163,3 +163,5 @@ BFS. Similar to number of islands.
 Devide all prime numbers if divisible, and return n == 1.
 - [1041. Robot Bounded In Circle (Medium)](https://github.com/eebowen/leetcode/blob/main/1041.%20Robot%20Bounded%20In%20Circle.md).
 Two conditions: 1). Return to origin after one iter. 2). Location changed and direction also changed at the end of one iter. Also need to change dir when turns.
+- [221. Maximal Square (Medium)](https://github.com/eebowen/leetcode/blob/main/221.%20Maximal%20Square.md).
+Use an hash map/ dict for the max area/lenth for each cell. Check right, down and corner to see if it can be a square. Recursively check the lenth of the adjusent squere and add them to the dict.
