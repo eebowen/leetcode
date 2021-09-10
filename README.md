@@ -171,3 +171,8 @@ Combination algorithm, DFS. For loop for different the length of the sub_set. df
 Simiar to 78. Subsets, just need to sort the input and skip repeated numbers. 
 - [1091. Shortest Path in Binary Matrix (Medium)](https://github.com/eebowen/leetcode/blob/main/1091.%20Shortest%20Path%20in%20Binary%20Matrix.md).
 BFS Graph shortest path.
+
+### 9/10
+- [190. Reverse Bits (easy)](https://github.com/eebowen/leetcode/blob/main/190.%20Reverse%20Bits.md).
+Use n >> i & 1 to get a bit value at i
+
