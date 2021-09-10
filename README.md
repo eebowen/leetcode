@@ -174,5 +174,6 @@ BFS Graph shortest path.
 
 ### 9/10
 - [190. Reverse Bits (easy)](https://github.com/eebowen/leetcode/blob/main/190.%20Reverse%20Bits.md).
-Use n >> i & 1 to get a bit value at i
-
+Use n >> i & 1 to get a bit value at i.
+- [542. 01 Matrix (Medium)](https://github.com/eebowen/leetcode/blob/main/542.%2001%20Matrix.md).
+Has multiple targets, use all of them as starting point to be more efficient. 
