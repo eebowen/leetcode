@@ -190,4 +190,5 @@ Greedy, backward.
 [Quesiton](https://leetcode.com/problems/walls-and-gates/). 
 Use multiple targets as starting points and add to queue. 
 Use a function to check valid and add node to queue. 
-Check BFS **INDEX x_new and y_new**
+Check BFS **INDEX x_new and y_new**. 
+
