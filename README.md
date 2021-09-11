@@ -186,3 +186,7 @@ String. For loop if there is a fixed increment.
 - [55. Jump Game (Medium)](https://github.com/eebowen/leetcode/blob/main/55.%20Jump%20Game.md). 
 [Question](https://leetcode.com/problems/jump-game/). 
 Greedy, backward.
+- [286. Walls and Gates (Medium)](https://github.com/eebowen/leetcode/blob/main/286.%20Walls%20and%20Gates.md). 
+[Quesiton](https://leetcode.com/problems/walls-and-gates/). 
+Use multiple targets as starting points and add to queue. 
+Use a function to check valid and add node to queue. 
