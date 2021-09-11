@@ -183,3 +183,6 @@ Top down recursion or in-order traversal.
 ### 9/11
 - [6. ZigZag Conversion (Medium)](https://github.com/eebowen/leetcode/blob/main/6.%20ZigZag%20Conversion.md).
 String. For loop if there is a fixed increment.
+- [55. Jump Game (Medium)](https://github.com/eebowen/leetcode/blob/main/55.%20Jump%20Game.md). 
+[Question](https://leetcode.com/problems/jump-game/). 
+Greedy, backward.
