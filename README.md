@@ -191,4 +191,4 @@ Greedy, backward.
 Use multiple targets as starting points and add to queue. 
 Use a function to check valid and add node to queue. 
 Check BFS **INDEX x_new and y_new**. 
--[210. Course Schedule II (Medium)](https://github.com/eebowen/leetcode/blob/main/210.%20Course%20Schedule%20II.md). 2nd, BFS.
+- [210. Course Schedule II (Medium)](https://github.com/eebowen/leetcode/blob/main/210.%20Course%20Schedule%20II.md). 2nd, BFS.
