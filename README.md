@@ -177,3 +177,5 @@ BFS Graph shortest path.
 Use n >> i & 1 to get a bit value at i.
 - [542. 01 Matrix (Medium)](https://github.com/eebowen/leetcode/blob/main/542.%2001%20Matrix.md).
 Has multiple targets, use all of them as starting point to be more efficient. 
+- [98. Validate Binary Search Tree (Medium)](https://github.com/eebowen/leetcode/blob/main/98.%20Validate%20Binary%20Search%20Tree.md).
+Top down recursion or in-order traversal.
