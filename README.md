@@ -179,3 +179,7 @@ Use n >> i & 1 to get a bit value at i.
 Has multiple targets, use all of them as starting point to be more efficient. 
 - [98. Validate Binary Search Tree (Medium)](https://github.com/eebowen/leetcode/blob/main/98.%20Validate%20Binary%20Search%20Tree.md).
 Top down recursion or in-order traversal.
+
+### 9/11
+- [6. ZigZag Conversion (Medium)](https://github.com/eebowen/leetcode/blob/main/6.%20ZigZag%20Conversion.md).
+String. For loop if there is a fixed increment.
