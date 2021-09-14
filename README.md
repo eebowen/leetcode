@@ -198,13 +198,13 @@ Check BFS **INDEX x_new and y_new**.
 Sort list first. Use DFS for combination problem.
 
 ### 9/14
-- [46. Permutations (medium)](https://github.com/eebowen/leetcode/blob/main/46.%20Permutations.md). 
+- [46. Permutations (Medium)](https://github.com/eebowen/leetcode/blob/main/46.%20Permutations.md). 
 DFS for permutation problems.
-- [47. Permutations II](https://github.com/eebowen/leetcode/blob/main/47.%20Permutations%20II.md). 
+- [47. Permutations II (Medium)](https://github.com/eebowen/leetcode/blob/main/47.%20Permutations%20II.md). 
 DFS for permutation problems.
 - [78. Subsets (Medium)](https://github.com/eebowen/leetcode/blob/main/78.%20Subsets.md).
 Second time.
 - [77. Combinations (Medium)](https://github.com/eebowen/leetcode/blob/main/77.%20Combinations.md).
 DFS for combinations.
-- [40. Combination Sum II (medium)](https://github.com/eebowen/leetcode/blob/main/40.%20Combination%20Sum%20II.md).
+- [40. Combination Sum II (Medium)](https://github.com/eebowen/leetcode/blob/main/40.%20Combination%20Sum%20II.md).
 Don't forgot to use early termination for DFS.
