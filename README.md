@@ -196,3 +196,9 @@ Check BFS **INDEX x_new and y_new**.
 ### 9/13
 - [39. Combination Sum (Medium)](https://github.com/eebowen/leetcode/blob/main/39.%20Combination%20Sum.md).
 Sort list first. Use DFS for combination problem.
+
+### 9/14
+- [46. Permutations (medium)](https://github.com/eebowen/leetcode/blob/main/46.%20Permutations.md). 
+DFS for permutation problems.
+- [47. Permutations II](https://github.com/eebowen/leetcode/blob/main/47.%20Permutations%20II.md). 
+DFS for permutation problems.
