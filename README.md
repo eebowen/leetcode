@@ -206,3 +206,5 @@ DFS for permutation problems.
 Second time.
 - [77. Combinations (Medium)](https://github.com/eebowen/leetcode/blob/main/77.%20Combinations.md).
 DFS for combinations.
+- [40. Combination Sum II (medium)](https://github.com/eebowen/leetcode/blob/main/40.%20Combination%20Sum%20II.md).
+Don't forgot to use early termination for DFS.
