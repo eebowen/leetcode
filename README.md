@@ -214,3 +214,7 @@ Don't forgot to use early termination for DFS.
 - [17. Letter Combinations of a Phone Number (Medium)](https://github.com/eebowen/leetcode/blob/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md).
 Tricky! Do again! Levels (index) choose from digits('23'), so index will be +1 for next level, not letters.
 Within each level, choose from letters 'abc', 'def'.
+
+### 9/16
+- [110. Balanced Binary Tree (Easy)](https://github.com/eebowen/leetcode/blob/main/110.%20Balanced%20Binary%20Tree.md). 
+When doing divide and conquer, thinking about return value of DFS, no need for global variables.
